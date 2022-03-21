@@ -24,24 +24,54 @@ Using the newly modified data, I repeated the school district analysis. In compa
 
 For the district summaries, after adjusting the data, the data is mostly unaffected. The slight drop in the math passing percentage is almost neglible.
 
+Revised District Summary:
+
 ![New District Summary](https://user-images.githubusercontent.com/95712234/159374182-7ef77478-fa88-4b8f-8721-d8ed39bb2f12.png)
+
+
+Previous District Summary:
 
 ![Previous District Summary](https://user-images.githubusercontent.com/95712234/159374188-1da3d20b-0408-4917-9f51-333d029b4054.png)
 
 #### School Summary:
 
+For the school summary, although the average math and reading scores were rather unaffected, the overall passing percentages for math and reading were deeply affected after the adjusted calculations. This is reflective of calculations based on the total student body count while getting percentages, and yet the entire ninth grade was excluded.
+
+Revised School Summary:
+
 ![New per_school_summary](https://user-images.githubusercontent.com/95712234/159374586-e6b14da0-b5b0-45cf-a57b-f8fa0dc27d14.png)
+
+Previous School Summary:
 
 ![Previous per_school_summary](https://user-images.githubusercontent.com/95712234/159374598-27ebe50a-3e7f-443f-8fba-597a3634d21a.png)
 
-For the school summary, although the average math and reading scores were rather unaffected, the overall passing percentages for math and reading were deeply affected after the adjusted calculations. This is reflective of calculations based on the total student body count while getting percentages, and yet the entire ninth grade was excluded.
 
-#### Top 5 schools:
+
+#### Top 5 ranking schools:
+
+Upon reviewing the ranking of top 5 schools, the results for Thomas High School remains unaffected.
+
+Revised Top 5 School rankings:
+
 ![Revised top 5 schools](https://user-images.githubusercontent.com/95712234/159380117-55e27760-be90-4287-945e-7dfc52e279e7.png)
+
+Previous Top 5 School rankings:
 
 ![Previous Top 5 schools](https://user-images.githubusercontent.com/95712234/159380137-bb522c74-46ec-40c1-a3e1-ad1916db49e2.png)
 
-Upon reviewing the ranking of top 5 schools, the results for Thomas High School remains unaffected.
+
+#### Lowest 5 ranking schools:
+
+Upon reviewing the ranking of the bottom 5 ranking schools, the results 
+
+Revised Bottom 5 school rankings:
+
+![New Bottom performing 5 schools](https://user-images.githubusercontent.com/95712234/159381008-e08fe702-daa3-4177-af7f-b25ce99eca9c.png)
+
+Previous Top 5 school rankings:
+
+![Previous Bottom performing 5 schools](https://user-images.githubusercontent.com/95712234/159381022-54a8796a-7041-44f5-bbab-07a9ee61ae08.png)
+
 
 
 ## Results
