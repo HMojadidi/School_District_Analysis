@@ -10,15 +10,20 @@ The purpose of the Module 4 Challenge is to replace the ninth grade math and rea
 
 ## Analysis and Challenges
 
+
 ### Deliverable #1: 
 
 I used the Pandas loc method to retrieve the ninth-grade reading and math scores for Thomas High School, Then, using the Pandas NumPy module, I changed the reading and math scores to Nan:
 
 ![Nan inserted for ninth-graders at THS](https://user-images.githubusercontent.com/95712234/159373688-b0f8b111-163d-47b2-bedc-9a1b4805ce65.png)
 
+
+
 ### Deliverable #2:
 
 Using the newly modified data, I repeated the school district analysis. In comparing the results from the previous analysis to the current one, one can see the following results:
+
+
 
 #### District Summary:
 
@@ -32,6 +37,8 @@ For the district summaries, after adjusting the data, the data is mostly unaffec
 ##### Previous District Summary:
 
 ![Previous District Summary](https://user-images.githubusercontent.com/95712234/159374188-1da3d20b-0408-4917-9f51-333d029b4054.png)
+
+
 
 #### School Summary:
 
@@ -55,9 +62,11 @@ Upon reviewing the ranking of top 5 schools, the results for Thomas High School 
 
 ![Revised top 5 schools](https://user-images.githubusercontent.com/95712234/159380117-55e27760-be90-4287-945e-7dfc52e279e7.png)
 
+
 ##### Previous Top 5 School rankings:
 
 ![Previous Top 5 schools](https://user-images.githubusercontent.com/95712234/159380137-bb522c74-46ec-40c1-a3e1-ad1916db49e2.png)
+
 
 
 #### Lowest 5 ranking schools:
@@ -68,9 +77,49 @@ Upon reviewing the ranking of the bottom 5 ranking schools, the results remained
 
 ![New Bottom performing 5 schools](https://user-images.githubusercontent.com/95712234/159381008-e08fe702-daa3-4177-af7f-b25ce99eca9c.png)
 
+
+
 ##### Previous Top 5 school rankings:
 
 ![Previous Bottom performing 5 schools](https://user-images.githubusercontent.com/95712234/159381022-54a8796a-7041-44f5-bbab-07a9ee61ae08.png)
+
+
+
+#### Scores by school spending:
+
+##### Revised scores in school spending:
+
+![New performace based on spending summary](https://user-images.githubusercontent.com/95712234/159394850-e9f6165f-25fc-4c33-b1e9-4db87b7af30a.png)
+
+
+##### Previous scores in school spending:
+
+![Previous performance based on spending summary](https://user-images.githubusercontent.com/95712234/159394866-b643a592-8e23-4b57-999d-2ed7d6dba7c5.png)
+
+
+
+#### Scores by school size:
+
+##### Revised scores by school size:
+
+![New school performance based on school size](https://user-images.githubusercontent.com/95712234/159395181-6091856c-b360-444f-a50a-074f5a02f524.png)
+
+
+##### Previous scores by school size:
+
+![Previous school performance based on school size](https://user-images.githubusercontent.com/95712234/159395144-aa024944-ff89-473a-b460-e7f8a63ff1f3.png)
+
+
+
+#### Scores by school type:
+
+##### Revised scores by school type:
+
+![New school performance based on school type](https://user-images.githubusercontent.com/95712234/159395297-4a385072-be24-4947-a133-f858ed6eb3d8.png)
+
+##### Previous scores by school type:
+
+![Previous school performance based on school type](https://user-images.githubusercontent.com/95712234/159395379-5830b118-757b-49eb-a79c-488643ff4851.png)
 
 
 
