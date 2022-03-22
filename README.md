@@ -102,6 +102,8 @@ When categorized by school spending, I noticed that the percentage of students p
 
 #### Scores by school size:
 
+Upon reviewing both data side by side, I noticed that in the medium sized school category, there is a drop in the math passing percentage after the data adjustment. It was previously at 94% but now it is at 88%.
+
 ##### Revised scores by school size:
 
 ![New school performance based on school size](https://user-images.githubusercontent.com/95712234/159395181-6091856c-b360-444f-a50a-074f5a02f524.png)
@@ -127,14 +129,3 @@ When categorized by school spending, I noticed that the percentage of students p
 
 
 ## Results
-The written analysis has the following:
-
-Overview of the school district analysis:
-
-The purpose of this analysis is well defined (3 pt).
-Results:
-
-There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data (10 pt).
-Summary:
-
-There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced (5 pt).
