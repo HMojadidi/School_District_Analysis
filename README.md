@@ -87,6 +87,8 @@ Upon reviewing the ranking of the bottom 5 ranking schools, the results remained
 
 #### Scores by school spending:
 
+When categorized by school spending, I noticed that the percentage of students passing math in the $631 - $645 category dropped in the revised data. Previously it was at 73% but now it is 67%.
+
 ##### Revised scores in school spending:
 
 ![New performace based on spending summary](https://user-images.githubusercontent.com/95712234/159394850-e9f6165f-25fc-4c33-b1e9-4db87b7af30a.png)
