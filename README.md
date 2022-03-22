@@ -73,7 +73,7 @@ Upon reviewing the ranking of top 5 schools, the results for Thomas High School 
 
 ### Lowest 5 ranking schools:
 
-Upon reviewing the ranking of the bottom 5 ranking schools, the results remained the same with no change.
+Upon reviewing the bottom 5 ranking schools, the results remained unchanged.
 
 #### Revised Bottom 5 school rankings:
 
