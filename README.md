@@ -119,7 +119,8 @@ Upon reviewing both data side by side, I noticed that in the medium sized school
 
 ##### Revised scores by school type:
 
-![New school performance based on school type](https://user-images.githubusercontent.com/95712234/159395297-4a385072-be24-4947-a133-f858ed6eb3d8.png)
+![Revised school type performance](https://user-images.githubusercontent.com/95712234/159397720-277dbe36-6f6e-431d-a2a8-b52044b4f51b.png)
+
 
 ##### Previous scores by school type:
 
